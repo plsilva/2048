@@ -20,6 +20,12 @@ span.tile-text {
   line-height: 1.25;
 }
 
+div {
+  padding: 20px;
+  backgruond-color: black;
+  margin: 10px;
+}
+
 
 
 input {
